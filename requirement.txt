@@ -1,0 +1,7 @@
+# Requirements
+
+- **streamlit** (==1.31.1): Streamlit is an open-source Python library that makes it easy to create web apps for machine learning and data science.
+- **pandas** (== 1.5.3): Pandas is a powerful data manipulation library for Python.
+- **scikit-learn** (==1.2.2): Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data analysis and modeling.
+- **matplotlib** (==3.7.1): Matplotlib is a plotting library for Python.
+- **wordcloud** (==1.9.3): Wordcloud is a Python package for creating word clouds from text data.
